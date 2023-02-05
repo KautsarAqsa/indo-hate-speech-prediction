@@ -4,7 +4,7 @@ are logistic regression, lightGBM, and neural-network models.
 The dataset used is Indonesian tweet from: 
 `https://raw.githubusercontent.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection/master/re_dataset.csv`
 
-There are 3 notebooks in this repo. Ideal order for reading:
+There are 4 notebooks in this repo. Ideal order for reading:
 `Hatespeech_Cleaning.ipynb` -> `Hatespeech_Logistic_Regression.ipynb` -> `Hatespeech_LightGBM.ipynb` -> `Hatespeech_NN.ipynb`
 
 ## Prerequisites
@@ -25,5 +25,6 @@ Notebook | Description | Colab
 `Hatespeech_LightGBM.ipynb` | Trying hate-speech prediction with boosting model (best performance!) | [![open-in-colab]](https://colab.research.google.com/drive/1G-g2jN4ZaRYQM9xIOQj1nRqfxUiv0mkX?usp=sharing)
 `Hatespeech_NN.ipynb` | Trying hate-speech prediction with deep learning model | [![open-in-colab]](https://colab.research.google.com/drive/1lHJcip92ybxK5UE6UfKTxFWLsEDDFiwF?usp=sharing)
 
+This repository provides a starting point for using supervised machine learning to predict hate speech in Indonesian language. The models provided are intended as a baseline, and further development is required to improve their performance.
 
 [open-in-colab]: https://colab.research.google.com/assets/colab-badge.svg
