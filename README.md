@@ -1,7 +1,7 @@
 # Indonesian Language Hate-Speech Prediction
 This repository contains a supervised machine learning model for predicting hate speech in Indonesian language. Models that have been trained and evaluated 
 are logistic regression, lightGBM, and neural-network models. 
-The dataset used is Indonesian tweet dataset from: 
+The dataset used was Indonesian tweet dataset from: 
 https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection
 
 There are 4 notebooks in this repo. Ideal order for reading:
